@@ -1,0 +1,1807 @@
+17:50:36 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+17:50:46 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+17:50:56 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+17:51:06 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+17:51:16 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+17:51:26 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+17:51:36 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+17:51:46 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+17:51:56 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+17:52:06 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+17:59:10 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+17:59:20 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+17:59:30 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+17:59:40 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+17:59:50 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:00:00 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:00:10 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:00:20 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:00:30 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:00:41 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:00:51 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:01:01 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:01:11 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:01:21 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:01:31 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:01:41 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:01:51 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:02:01 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:02:11 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:02:21 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:02:31 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:02:41 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:02:51 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:03:01 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:03:12 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:03:22 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:03:32 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:03:42 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:03:52 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:04:02 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:04:12 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:04:22 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:04:32 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:04:42 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:04:52 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:35:50 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:36:00 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:36:10 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:36:20 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:36:30 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:36:40 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:36:50 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:37:00 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:37:10 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:37:20 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:37:30 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:37:40 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:37:51 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:38:01 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:38:11 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:38:21 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:38:31 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:38:41 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:38:51 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:39:01 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:39:11 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:39:21 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:39:31 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:39:41 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:39:51 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:40:01 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:40:11 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:40:22 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:40:32 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:40:42 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:40:52 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:41:02 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:41:12 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:41:22 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:41:32 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:41:42 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:41:52 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:42:02 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:42:12 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:42:22 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:42:32 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:42:42 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:42:53 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:43:03 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:43:13 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:43:23 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:43:33 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:43:43 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:43:53 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:44:03 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:44:13 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:44:23 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:44:33 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:44:43 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:44:53 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:45:03 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:45:13 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:45:24 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:45:34 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:45:44 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:45:54 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:46:04 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:46:14 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:46:24 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:46:34 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:46:44 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:46:54 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:47:04 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:47:14 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:47:24 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:47:34 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:47:44 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:47:55 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:48:05 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:48:15 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:48:25 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:48:35 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:48:45 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:48:55 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:49:05 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:49:15 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:49:25 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:49:35 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:49:45 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:49:55 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:50:05 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:50:15 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:50:26 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:50:36 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:50:46 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:50:56 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:51:06 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:51:16 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:51:26 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:51:36 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:51:46 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:51:56 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:52:06 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:52:16 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:52:26 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:52:36 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:52:46 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:52:56 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:53:06 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:53:16 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:53:27 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:53:37 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:53:47 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:53:57 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:54:07 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:54:17 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:54:27 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:54:37 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:54:47 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:54:57 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:55:07 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:55:17 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:55:43 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:55:53 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:56:03 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:56:13 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:56:23 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:56:33 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:56:43 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:56:53 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:57:03 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:57:13 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:57:23 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:57:33 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:57:44 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:57:54 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:58:04 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:58:14 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:58:24 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:58:34 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:58:44 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:58:54 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:59:04 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:59:14 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:59:24 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:59:34 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:59:44 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+18:59:54 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:00:04 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:00:15 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:00:25 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:00:35 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:00:45 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:00:55 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:01:05 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:01:15 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:01:25 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:01:35 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:01:45 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:01:55 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:02:05 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:02:15 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:02:25 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:02:35 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:02:45 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:02:55 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:03:05 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:03:16 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:03:26 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:03:36 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:03:46 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:03:56 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:04:06 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:04:16 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:04:26 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:04:36 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:04:46 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:04:56 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:05:06 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:05:16 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:05:26 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:05:36 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:05:47 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:05:57 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:06:07 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:06:17 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:06:27 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:06:37 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:06:47 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:06:57 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:07:07 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:07:17 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:07:27 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:07:37 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:07:47 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:07:57 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:08:07 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:08:17 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:08:27 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:08:37 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:08:48 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:08:58 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:09:08 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:09:18 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:09:28 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:09:38 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:09:48 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:09:58 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:10:08 umidade=0.0 chuva=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:18:05 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:18:16 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:18:26 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:18:36 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:18:46 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:18:56 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:19:06 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:19:16 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:19:26 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:19:36 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:19:46 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:19:56 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:20:06 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:20:16 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:20:26 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:20:36 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:20:46 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:20:56 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:21:06 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:21:16 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:21:26 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:21:36 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:21:46 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:21:56 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:22:07 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:22:17 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:22:27 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:22:37 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:22:47 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:22:57 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:23:07 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:23:17 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:23:27 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:23:37 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:23:47 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:23:57 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:24:07 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:24:17 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:24:27 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:24:38 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:24:48 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:24:58 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:25:08 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:25:18 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:25:28 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:25:38 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:25:48 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:25:58 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:26:08 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:26:18 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:26:28 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:26:38 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:26:48 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:26:58 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:27:09 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:27:19 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:27:29 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:27:39 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:27:49 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:27:59 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:28:09 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:28:19 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:28:29 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:28:39 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:28:49 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:28:59 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:29:09 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:29:19 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:29:29 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:29:40 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:29:50 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:30:00 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:30:10 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:30:20 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:30:30 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:30:40 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:30:50 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:31:00 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:31:10 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:31:20 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:31:30 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:31:40 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:31:50 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:32:00 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:32:11 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:32:21 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:32:31 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:32:41 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:32:51 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:33:01 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+19:33:11 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+19:33:21 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+19:33:31 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+19:33:41 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+19:33:51 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+19:34:02 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+19:34:12 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+19:34:22 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+19:34:32 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+19:34:42 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+19:34:52 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+19:35:02 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+19:35:12 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+19:35:22 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+19:35:32 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+19:35:42 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+19:35:52 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+19:36:03 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+19:36:13 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+19:36:23 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+19:36:33 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+19:36:43 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+19:36:53 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+19:37:03 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+19:37:13 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+19:37:23 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+19:37:33 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+19:37:43 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+19:37:53 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+19:38:03 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+19:38:13 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+19:38:23 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+19:38:34 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+19:38:44 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+19:38:54 umidade=861.0 chuva=676.5 temperatura=0.0 vazao=31.0 acao=IniciaIrrigacao
+19:39:04 umidade=861.0 chuva=676.5 temperatura=0.0 vazao=31.0 acao=IniciaIrrigacao
+19:39:14 umidade=861.0 chuva=676.5 temperatura=0.0 vazao=31.0 acao=IniciaIrrigacao
+19:39:24 umidade=861.0 chuva=676.5 temperatura=0.0 vazao=31.0 acao=IniciaIrrigacao
+19:39:34 umidade=861.0 chuva=676.5 temperatura=0.0 vazao=31.0 acao=IniciaIrrigacao
+19:39:44 umidade=861.0 chuva=676.5 temperatura=0.0 vazao=31.0 acao=IniciaIrrigacao
+19:39:54 umidade=861.0 chuva=676.5 temperatura=0.0 vazao=31.0 acao=IniciaIrrigacao
+19:40:05 umidade=861.0 chuva=676.5 temperatura=0.0 vazao=31.0 acao=IniciaIrrigacao
+19:40:15 umidade=861.0 chuva=676.5 temperatura=0.0 vazao=31.0 acao=IniciaIrrigacao
+19:40:25 umidade=861.0 chuva=676.5 temperatura=0.0 vazao=31.0 acao=IniciaIrrigacao
+19:40:35 umidade=861.0 chuva=676.5 temperatura=0.0 vazao=31.0 acao=IniciaIrrigacao
+19:40:45 umidade=861.0 chuva=676.5 temperatura=0.0 vazao=31.0 acao=IniciaIrrigacao
+19:40:55 umidade=861.0 chuva=676.5 temperatura=0.0 vazao=31.0 acao=IniciaIrrigacao
+19:41:05 umidade=861.0 chuva=676.5 temperatura=0.0 vazao=31.0 acao=IniciaIrrigacao
+19:41:15 umidade=861.0 chuva=676.5 temperatura=0.0 vazao=31.0 acao=IniciaIrrigacao
+19:41:25 umidade=861.0 chuva=676.5 temperatura=0.0 vazao=31.0 acao=IniciaIrrigacao
+19:41:35 umidade=1023.0 chuva=694.0 temperatura=0.0 vazao=30.0 acao=IniciaIrrigacao
+19:41:45 umidade=1023.0 chuva=692.0 temperatura=0.0 vazao=31.0 acao=IniciaIrrigacao
+19:41:55 umidade=1023.0 chuva=692.0 temperatura=0.0 vazao=31.0 acao=IniciaIrrigacao
+19:42:05 umidade=1023.0 chuva=693.0 temperatura=0.0 vazao=31.0 acao=IniciaIrrigacao
+19:42:15 umidade=1023.0 chuva=692.0 temperatura=0.0 vazao=31.0 acao=IniciaIrrigacao
+19:42:25 umidade=1023.0 chuva=693.0 temperatura=0.0 vazao=31.0 acao=IniciaIrrigacao
+19:42:36 umidade=1023.0 chuva=692.0 temperatura=0.0 vazao=31.0 acao=IniciaIrrigacao
+19:42:46 umidade=1023.0 chuva=692.0 temperatura=0.0 vazao=31.0 acao=IniciaIrrigacao
+19:42:56 umidade=1023.0 chuva=693.0 temperatura=0.0 vazao=31.0 acao=IniciaIrrigacao
+19:43:06 umidade=1023.0 chuva=692.0 temperatura=0.0 vazao=31.0 acao=IniciaIrrigacao
+19:43:16 umidade=1023.0 chuva=692.0 temperatura=0.0 vazao=31.0 acao=IniciaIrrigacao
+19:43:26 umidade=1023.0 chuva=692.0 temperatura=0.0 vazao=31.0 acao=IniciaIrrigacao
+19:43:36 umidade=1023.0 chuva=692.0 temperatura=0.0 vazao=31.0 acao=IniciaIrrigacao
+19:43:46 umidade=1023.0 chuva=693.0 temperatura=0.0 vazao=31.0 acao=IniciaIrrigacao
+19:43:56 umidade=1023.0 chuva=692.0 temperatura=0.0 vazao=31.0 acao=IniciaIrrigacao
+19:44:06 umidade=1023.0 chuva=692.0 temperatura=0.0 vazao=31.0 acao=IniciaIrrigacao
+19:44:27 umidade=1023.0 chuva=710.5 temperatura=31.5 vazao=0.0 acao=CancelaIrrigacao
+19:44:37 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:44:47 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:44:57 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:45:07 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:45:17 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:45:27 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:45:37 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:45:47 umidade=1023.0 chuva=691.0 temperatura=34.0 vazao=0.0 acao=IniciaIrrigacao
+19:45:57 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:46:07 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:46:18 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:46:28 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:46:38 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:46:48 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:46:58 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:47:08 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:47:18 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:47:28 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:47:38 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:47:49 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:47:59 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:48:09 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:48:19 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:48:29 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:48:39 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:48:49 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:48:59 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:49:09 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:49:19 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:49:29 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:49:39 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:49:50 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:50:00 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:50:10 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:50:20 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:50:30 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:50:40 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:50:50 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:51:00 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:51:10 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:51:20 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:51:30 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:51:40 umidade=1023.0 chuva=693.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:51:51 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:52:01 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:52:11 umidade=1011.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:52:21 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:52:31 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:52:41 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:52:51 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:53:01 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:53:11 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:53:32 umidade=1023.0 chuva=691.0 temperatura=32.0 vazao=0.0 acao=CancelaIrrigacao
+19:53:42 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:53:52 umidade=1023.0 chuva=691.0 temperatura=30.0 vazao=0.0 acao=IniciaIrrigacao
+19:54:02 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:54:12 umidade=1023.0 chuva=692.0 temperatura=30.0 vazao=0.0 acao=IniciaIrrigacao
+19:54:22 umidade=1023.0 chuva=693.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:54:32 umidade=1023.0 chuva=691.0 temperatura=30.0 vazao=0.0 acao=IniciaIrrigacao
+19:54:42 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:54:53 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:55:03 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:55:13 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:55:23 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:55:33 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:55:43 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:55:53 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:56:03 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:56:13 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:56:23 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:56:33 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:56:43 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:56:54 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:57:04 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:57:14 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:57:24 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:57:34 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:57:44 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:57:54 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:58:04 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:58:14 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:58:24 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:58:34 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:58:44 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:58:55 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:59:05 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:59:15 umidade=1023.0 chuva=713.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:59:36 umidade=1023.0 chuva=690.0 temperatura=31.0 vazao=0.0 acao=CancelaIrrigacao
+19:59:46 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+19:59:56 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:00:06 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:00:16 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:00:26 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:00:36 umidade=1023.0 chuva=691.0 temperatura=33.0 vazao=0.0 acao=IniciaIrrigacao
+20:00:46 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:00:56 umidade=1023.0 chuva=692.0 temperatura=30.0 vazao=0.0 acao=IniciaIrrigacao
+20:01:06 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:01:16 umidade=1023.0 chuva=691.0 temperatura=30.0 vazao=0.0 acao=IniciaIrrigacao
+20:01:26 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:01:36 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:01:46 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:01:56 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:02:06 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:02:16 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:02:26 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:02:48 umidade=1023.0 chuva=690.5 temperatura=31.0 vazao=0.0 acao=CancelaIrrigacao
+20:02:58 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:03:08 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:03:18 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:03:28 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:03:38 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:03:48 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:03:58 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:04:08 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:04:18 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:04:28 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:04:38 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:04:48 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:04:58 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:05:08 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:05:18 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:05:28 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:05:38 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:05:48 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:05:58 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:06:08 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:06:19 umidade=1023.0 chuva=728.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:06:29 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:06:39 umidade=1023.0 chuva=690.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:07:37 umidade=1023.0 chuva=691.5 temperatura=31.5 vazao=0.0 acao=CancelaIrrigacao
+20:07:47 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:08:52 umidade=1023.0 chuva=691.0 temperatura=30.5 vazao=0.0 acao=CancelaIrrigacao
+20:09:02 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:09:12 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:09:22 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:09:32 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:09:42 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:09:52 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:10:02 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:10:12 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:10:22 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:10:32 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:10:42 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:10:53 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:11:03 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:11:13 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:11:23 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:11:33 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:11:43 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:11:53 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:12:03 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:12:13 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:12:23 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:12:33 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:12:43 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:12:53 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:13:03 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:13:14 umidade=1020.0 chuva=708.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:13:24 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:13:34 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:13:44 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:13:54 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:14:04 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:14:14 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:14:24 umidade=1023.0 chuva=691.0 temperatura=29.0 vazao=0.0 acao=IniciaIrrigacao
+20:14:34 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:14:45 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:14:55 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:15:05 umidade=1023.0 chuva=691.0 temperatura=34.0 vazao=0.0 acao=IniciaIrrigacao
+20:15:15 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:15:25 umidade=1023.0 chuva=691.0 temperatura=30.0 vazao=0.0 acao=IniciaIrrigacao
+20:15:35 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:15:45 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:15:55 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:16:05 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:16:15 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:16:25 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:16:35 umidade=1023.0 chuva=691.0 temperatura=34.0 vazao=0.0 acao=IniciaIrrigacao
+20:16:46 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:16:56 umidade=1023.0 chuva=693.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:17:06 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:17:16 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:17:26 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:17:36 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:17:46 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:18:09 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=CancelaIrrigacao
+20:18:19 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:18:29 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:18:39 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:18:49 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:18:59 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:19:09 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:19:19 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:19:29 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:19:39 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:19:49 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:20:11 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=CancelaIrrigacao
+20:20:21 umidade=1023.0 chuva=712.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:20:31 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:20:41 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:20:51 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:21:01 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:21:11 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:21:21 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:21:31 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:21:41 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:21:51 umidade=1023.0 chuva=710.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:22:01 umidade=1023.0 chuva=707.0 temperatura=36.0 vazao=0.0 acao=IniciaIrrigacao
+20:22:11 umidade=1023.0 chuva=701.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:22:21 umidade=1023.0 chuva=702.0 temperatura=30.0 vazao=0.0 acao=IniciaIrrigacao
+20:22:32 umidade=1023.0 chuva=687.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:22:42 umidade=1023.0 chuva=691.0 temperatura=30.0 vazao=0.0 acao=IniciaIrrigacao
+20:22:52 umidade=1023.0 chuva=695.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:23:02 umidade=1023.0 chuva=693.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:23:12 umidade=1023.0 chuva=697.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:23:22 umidade=1023.0 chuva=695.0 temperatura=30.0 vazao=0.0 acao=IniciaIrrigacao
+20:23:32 umidade=1023.0 chuva=695.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:23:42 umidade=1023.0 chuva=696.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:23:52 umidade=1023.0 chuva=695.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:24:02 umidade=1023.0 chuva=696.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:24:12 umidade=1023.0 chuva=695.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:24:22 umidade=1023.0 chuva=696.0 temperatura=30.0 vazao=0.0 acao=IniciaIrrigacao
+20:24:33 umidade=1023.0 chuva=696.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:24:43 umidade=1023.0 chuva=696.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:24:53 umidade=1023.0 chuva=689.0 temperatura=30.0 vazao=0.0 acao=IniciaIrrigacao
+20:25:03 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:25:13 umidade=1023.0 chuva=690.0 temperatura=30.0 vazao=0.0 acao=IniciaIrrigacao
+20:25:23 umidade=1023.0 chuva=688.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:25:33 umidade=1023.0 chuva=688.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:25:43 umidade=1023.0 chuva=690.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:25:53 umidade=1023.0 chuva=690.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:26:04 umidade=1023.0 chuva=690.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:26:14 umidade=1023.0 chuva=689.0 temperatura=30.0 vazao=0.0 acao=IniciaIrrigacao
+20:26:24 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:26:34 umidade=1023.0 chuva=689.0 temperatura=30.0 vazao=0.0 acao=IniciaIrrigacao
+20:26:44 umidade=1023.0 chuva=695.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:26:54 umidade=1023.0 chuva=689.0 temperatura=30.0 vazao=0.0 acao=IniciaIrrigacao
+20:27:04 umidade=1017.0 chuva=689.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:27:14 umidade=1023.0 chuva=690.0 temperatura=30.0 vazao=0.0 acao=IniciaIrrigacao
+20:27:24 umidade=1023.0 chuva=690.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:27:34 umidade=1022.0 chuva=691.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:27:44 umidade=1023.0 chuva=690.0 temperatura=29.0 vazao=0.0 acao=IniciaIrrigacao
+20:27:54 umidade=1023.0 chuva=689.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:28:05 umidade=1023.0 chuva=689.0 temperatura=32.0 vazao=0.0 acao=IniciaIrrigacao
+20:28:15 umidade=1023.0 chuva=690.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:28:25 umidade=1023.0 chuva=689.0 temperatura=35.0 vazao=0.0 acao=IniciaIrrigacao
+20:28:35 umidade=1023.0 chuva=689.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:28:45 umidade=1023.0 chuva=689.0 temperatura=30.0 vazao=0.0 acao=IniciaIrrigacao
+20:28:55 umidade=1023.0 chuva=690.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:29:05 umidade=1023.0 chuva=688.0 temperatura=30.0 vazao=0.0 acao=IniciaIrrigacao
+20:29:15 umidade=1023.0 chuva=690.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+20:29:25 umidade=1023.0 chuva=689.0 temperatura=30.0 vazao=0.0 acao=IniciaIrrigacao
+20:29:36 umidade=1023.0 chuva=689.0 temperatura=31.0 vazao=0.91 acao=IniciaIrrigacao
+20:29:46 umidade=1023.0 chuva=690.0 temperatura=30.0 vazao=0.91 acao=IniciaIrrigacao
+20:29:56 umidade=1023.0 chuva=690.0 temperatura=31.0 vazao=0.91 acao=IniciaIrrigacao
+20:30:06 umidade=1023.0 chuva=690.0 temperatura=31.0 vazao=0.91 acao=IniciaIrrigacao
+20:30:16 umidade=1023.0 chuva=689.0 temperatura=31.0 vazao=0.91 acao=IniciaIrrigacao
+20:30:26 umidade=1023.0 chuva=690.0 temperatura=31.0 vazao=0.91 acao=IniciaIrrigacao
+20:30:36 umidade=1023.0 chuva=690.0 temperatura=31.0 vazao=0.91 acao=IniciaIrrigacao
+20:30:46 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.91 acao=IniciaIrrigacao
+20:30:56 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.91 acao=IniciaIrrigacao
+20:31:06 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.91 acao=IniciaIrrigacao
+20:31:16 umidade=1023.0 chuva=690.0 temperatura=31.0 vazao=0.91 acao=IniciaIrrigacao
+20:31:26 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.91 acao=IniciaIrrigacao
+20:31:36 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.91 acao=IniciaIrrigacao
+20:31:47 umidade=1023.0 chuva=690.0 temperatura=31.0 vazao=0.91 acao=CancelaIrrigacao
+20:31:57 umidade=1023.0 chuva=690.0 temperatura=31.0 vazao=0.91 acao=IniciaIrrigacao
+20:32:07 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.91 acao=IniciaIrrigacao
+20:32:17 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.91 acao=CancelaIrrigacao
+20:32:27 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.91 acao=CancelaIrrigacao
+20:32:37 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.91 acao=CancelaIrrigacao
+20:32:47 umidade=1023.0 chuva=693.0 temperatura=31.0 vazao=0.91 acao=CancelaIrrigacao
+20:32:57 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.91 acao=IniciaIrrigacao
+20:33:07 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.91 acao=CancelaIrrigacao
+20:33:17 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.91 acao=CancelaIrrigacao
+20:33:27 umidade=1010.0 chuva=706.0 temperatura=31.0 vazao=0.91 acao=CancelaIrrigacao
+20:33:37 umidade=1023.0 chuva=691.0 temperatura=30.0 vazao=0.91 acao=CancelaIrrigacao
+20:33:48 umidade=1023.0 chuva=691.0 temperatura=30.0 vazao=0.91 acao=CancelaIrrigacao
+20:33:58 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.91 acao=CancelaIrrigacao
+20:34:08 umidade=1023.0 chuva=691.0 temperatura=31.0 vazao=0.91 acao=CancelaIrrigacao
+20:34:18 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.91 acao=CancelaIrrigacao
+20:34:28 umidade=1023.0 chuva=691.0 temperatura=26.0 vazao=0.91 acao=CancelaIrrigacao
+20:34:38 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.91 acao=IniciaIrrigacao
+20:34:48 umidade=1023.0 chuva=691.0 temperatura=32.0 vazao=0.91 acao=IniciaIrrigacao
+20:34:58 umidade=1023.0 chuva=692.0 temperatura=31.0 vazao=0.91 acao=IniciaIrrigacao
+20:35:08 umidade=858.0 chuva=461.0 temperatura=35.0 vazao=0.91 acao=IniciaIrrigacao
+20:35:18 umidade=883.0 chuva=508.0 temperatura=31.0 vazao=0.91 acao=CancelaIrrigacao
+20:35:28 umidade=966.0 chuva=170.0 temperatura=30.0 vazao=0.91 acao=CancelaIrrigacao
+20:35:38 umidade=957.0 chuva=698.0 temperatura=31.0 vazao=0.91 acao=CancelaIrrigacao
+20:35:49 umidade=1023.0 chuva=700.0 temperatura=30.0 vazao=0.91 acao=IniciaIrrigacao
+20:35:59 umidade=1023.0 chuva=632.0 temperatura=31.0 vazao=0.91 acao=IniciaIrrigacao
+20:36:09 umidade=1023.0 chuva=701.0 temperatura=31.0 vazao=0.91 acao=IniciaIrrigacao
+20:36:19 umidade=1023.0 chuva=700.0 temperatura=31.0 vazao=0.91 acao=IniciaIrrigacao
+21:29:56 umidade=1023.0 chuva=676.0 temperatura=30.5 vazao=0.0 acao=CancelaIrrigacao
+21:30:07 umidade=1023.0 chuva=676.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+21:30:17 umidade=1023.0 chuva=675.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+21:30:27 umidade=1023.0 chuva=676.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+21:30:37 umidade=1023.0 chuva=671.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+21:30:47 umidade=1023.0 chuva=676.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+21:30:57 umidade=1023.0 chuva=676.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+21:31:07 umidade=1023.0 chuva=676.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+21:31:17 umidade=1023.0 chuva=676.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+21:31:27 umidade=1023.0 chuva=673.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+21:31:37 umidade=1023.0 chuva=675.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+21:31:47 umidade=1023.0 chuva=676.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+21:31:57 umidade=1023.0 chuva=676.0 temperatura=31.0 vazao=0.0 acao=IniciaIrrigacao
+21:32:07 umidade=1023.0 chuva=676.0 temperatura=32.0 vazao=0.0 acao=IniciaIrrigacao
+21:32:17 umidade=1023.0 chuva=676.0 temperatura=32.0 vazao=0.0 acao=IniciaIrrigacao
+21:32:27 umidade=1023.0 chuva=676.0 temperatura=32.0 vazao=0.0 acao=IniciaIrrigacao
+21:32:37 umidade=1023.0 chuva=676.0 temperatura=32.0 vazao=0.0 acao=IniciaIrrigacao
+21:32:47 umidade=1023.0 chuva=676.0 temperatura=32.0 vazao=0.0 acao=IniciaIrrigacao
+21:32:57 umidade=1023.0 chuva=676.0 temperatura=32.0 vazao=0.0 acao=IniciaIrrigacao
+21:33:07 umidade=1023.0 chuva=676.0 temperatura=32.0 vazao=0.0 acao=IniciaIrrigacao
+21:33:17 umidade=1023.0 chuva=676.0 temperatura=32.0 vazao=0.0 acao=IniciaIrrigacao
+21:33:27 umidade=1023.0 chuva=676.0 temperatura=32.0 vazao=0.0 acao=IniciaIrrigacao
+21:33:37 umidade=1023.0 chuva=676.0 temperatura=32.0 vazao=0.0 acao=IniciaIrrigacao
+21:33:47 umidade=1023.0 chuva=676.0 temperatura=32.0 vazao=0.0 acao=IniciaIrrigacao
+21:33:57 umidade=1023.0 chuva=676.0 temperatura=32.0 vazao=0.0 acao=IniciaIrrigacao
+21:34:07 umidade=1023.0 chuva=676.0 temperatura=32.0 vazao=0.0 acao=IniciaIrrigacao
+21:34:17 umidade=1023.0 chuva=676.0 temperatura=32.0 vazao=0.0 acao=IniciaIrrigacao
+21:34:28 umidade=1023.0 chuva=676.0 temperatura=32.0 vazao=0.0 acao=IniciaIrrigacao
+21:34:38 umidade=1023.0 chuva=676.0 temperatura=32.0 vazao=0.0 acao=IniciaIrrigacao
+21:34:48 umidade=1023.0 chuva=676.0 temperatura=32.0 vazao=0.0 acao=IniciaIrrigacao
+21:34:58 umidade=1023.0 chuva=676.0 temperatura=33.0 vazao=0.0 acao=IniciaIrrigacao
+21:35:08 umidade=1023.0 chuva=676.0 temperatura=33.0 vazao=0.0 acao=IniciaIrrigacao
+21:35:18 umidade=1023.0 chuva=676.0 temperatura=33.0 vazao=0.0 acao=IniciaIrrigacao
+21:35:28 umidade=1023.0 chuva=676.0 temperatura=33.0 vazao=0.0 acao=IniciaIrrigacao
+21:35:38 umidade=1023.0 chuva=676.0 temperatura=33.0 vazao=0.0 acao=IniciaIrrigacao
+21:35:48 umidade=1023.0 chuva=676.0 temperatura=33.0 vazao=0.0 acao=IniciaIrrigacao
+21:35:58 umidade=1023.0 chuva=669.0 temperatura=33.0 vazao=0.0 acao=IniciaIrrigacao
+21:36:08 umidade=1023.0 chuva=676.0 temperatura=33.0 vazao=0.0 acao=IniciaIrrigacao
+21:36:19 umidade=1023.0 chuva=676.0 temperatura=33.0 vazao=0.0 acao=IniciaIrrigacao
+21:36:29 umidade=1023.0 chuva=676.0 temperatura=33.0 vazao=0.0 acao=IniciaIrrigacao
+21:36:39 umidade=1023.0 chuva=676.0 temperatura=33.0 vazao=0.0 acao=IniciaIrrigacao
+21:36:49 umidade=1023.0 chuva=676.0 temperatura=33.0 vazao=0.0 acao=IniciaIrrigacao
+21:36:59 umidade=1023.0 chuva=676.0 temperatura=33.0 vazao=0.0 acao=IniciaIrrigacao
+21:37:09 umidade=1023.0 chuva=676.0 temperatura=33.0 vazao=0.0 acao=IniciaIrrigacao
+21:37:19 umidade=1023.0 chuva=676.0 temperatura=33.0 vazao=0.0 acao=IniciaIrrigacao
+21:37:29 umidade=1023.0 chuva=676.0 temperatura=33.0 vazao=0.0 acao=IniciaIrrigacao
+21:37:39 umidade=1023.0 chuva=676.0 temperatura=33.0 vazao=0.0 acao=IniciaIrrigacao
+21:37:49 umidade=1023.0 chuva=676.0 temperatura=33.0 vazao=0.0 acao=IniciaIrrigacao
+21:37:59 umidade=1023.0 chuva=676.0 temperatura=34.0 vazao=0.0 acao=IniciaIrrigacao
+21:38:09 umidade=1023.0 chuva=676.0 temperatura=34.0 vazao=0.0 acao=IniciaIrrigacao
+21:38:19 umidade=1023.0 chuva=676.0 temperatura=34.0 vazao=0.0 acao=IniciaIrrigacao
+21:38:29 umidade=1023.0 chuva=674.0 temperatura=34.0 vazao=0.0 acao=IniciaIrrigacao
+21:38:39 umidade=1023.0 chuva=676.0 temperatura=34.0 vazao=0.0 acao=IniciaIrrigacao
+21:38:49 umidade=1023.0 chuva=676.0 temperatura=34.0 vazao=0.0 acao=IniciaIrrigacao
+21:39:00 umidade=1023.0 chuva=676.0 temperatura=34.0 vazao=0.0 acao=IniciaIrrigacao
+21:39:10 umidade=1023.0 chuva=676.0 temperatura=34.0 vazao=0.0 acao=IniciaIrrigacao
+21:39:20 umidade=1023.0 chuva=671.0 temperatura=34.0 vazao=0.0 acao=IniciaIrrigacao
+21:39:30 umidade=1023.0 chuva=676.0 temperatura=34.0 vazao=0.0 acao=IniciaIrrigacao
+21:39:40 umidade=1023.0 chuva=676.0 temperatura=34.0 vazao=0.0 acao=IniciaIrrigacao
+21:39:50 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.0 acao=IniciaIrrigacao
+21:40:00 umidade=1023.0 chuva=676.0 temperatura=34.0 vazao=0.0 acao=IniciaIrrigacao
+21:40:10 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.0 acao=IniciaIrrigacao
+21:40:20 umidade=1023.0 chuva=676.0 temperatura=34.0 vazao=0.0 acao=CancelaIrrigacao
+21:40:30 umidade=1023.0 chuva=676.0 temperatura=34.0 vazao=0.06 acao=IniciaIrrigacao
+21:40:40 umidade=1023.0 chuva=676.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:40:50 umidade=1023.0 chuva=676.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:41:00 umidade=1023.0 chuva=676.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:41:10 umidade=1023.0 chuva=676.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:41:21 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:41:31 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:41:41 umidade=1023.0 chuva=676.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:41:51 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=IniciaIrrigacao
+21:42:01 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=IniciaIrrigacao
+21:42:11 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:42:21 umidade=1023.0 chuva=676.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:42:31 umidade=1023.0 chuva=676.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:42:41 umidade=1023.0 chuva=676.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:42:51 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:43:02 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:43:12 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:43:22 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:43:32 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:43:42 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:43:53 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:44:03 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:44:13 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:44:24 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:44:34 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:44:44 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:44:55 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:45:05 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:45:15 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:45:26 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:45:36 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:45:46 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:45:57 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:46:07 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:46:17 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:46:28 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:46:38 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:46:48 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:46:59 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:47:09 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:47:19 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:47:30 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:47:40 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:47:50 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:48:00 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:48:11 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:48:21 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:48:31 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:48:41 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:48:51 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:49:02 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:49:12 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:49:22 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:49:32 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:49:42 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:49:52 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:50:03 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:50:13 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:50:23 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:50:34 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:50:44 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:50:54 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:51:05 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:51:15 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:51:25 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:51:36 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:51:46 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:51:56 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:52:06 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:52:16 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:52:26 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:52:37 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:52:47 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:52:57 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:53:08 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:53:18 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:53:28 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:53:38 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:53:48 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:53:58 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:54:09 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:54:19 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:54:29 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:54:39 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:54:49 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:54:59 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:55:09 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:55:19 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:55:29 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:55:39 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:55:49 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:55:59 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:56:09 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:56:19 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:56:29 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:56:39 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:56:49 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:56:59 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:57:10 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:57:20 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:57:30 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:57:40 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:57:50 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:58:00 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:58:10 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:58:20 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:58:30 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:58:40 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:58:50 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:59:00 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:59:10 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:59:20 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:59:30 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:59:41 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+21:59:51 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:00:01 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:00:11 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:00:21 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:00:31 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:00:41 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:00:51 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:01:01 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:01:11 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:01:21 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:01:31 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:01:41 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:01:51 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:02:01 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:02:12 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:02:22 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:02:32 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:02:42 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:02:52 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:03:02 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:03:12 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:03:22 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:03:32 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:03:42 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:03:52 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:04:02 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:04:12 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:04:22 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:04:32 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:04:43 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:04:53 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:05:03 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:05:13 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:05:23 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:05:33 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:05:43 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:05:53 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:06:03 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:06:13 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:06:23 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:06:33 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:06:44 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:06:54 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:07:04 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:07:14 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:07:24 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:07:34 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:07:44 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:07:54 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:08:04 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:08:14 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:08:24 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:08:34 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:08:44 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:08:54 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:09:04 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:09:14 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:09:24 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:09:34 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:09:45 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:09:55 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:10:05 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:10:15 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:10:25 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:10:35 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:10:45 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:10:55 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:11:05 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:11:15 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:11:25 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:11:35 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:11:46 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:11:56 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:12:06 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:12:16 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:12:26 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:12:36 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:12:46 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:12:56 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:13:06 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:13:16 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:13:26 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:13:36 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:13:46 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:13:56 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:14:06 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:14:17 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:14:27 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:14:37 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:14:47 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:14:57 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:15:07 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:15:17 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:15:27 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:15:37 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:15:47 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:15:57 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:16:07 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:16:18 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:16:28 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:16:38 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:16:48 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:16:58 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:17:08 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:17:18 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:17:28 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:17:38 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:17:48 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:17:58 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:18:08 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:18:18 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:18:28 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:18:38 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:18:49 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:18:59 umidade=1023.0 chuva=676.0 temperatura=31.0 vazao=0.06 acao=CancelaIrrigacao
+22:19:09 umidade=1023.0 chuva=676.0 temperatura=31.0 vazao=0.06 acao=CancelaIrrigacao
+22:19:19 umidade=1023.0 chuva=676.0 temperatura=31.0 vazao=0.06 acao=CancelaIrrigacao
+22:19:29 umidade=1023.0 chuva=676.0 temperatura=31.0 vazao=0.06 acao=CancelaIrrigacao
+22:19:39 umidade=1023.0 chuva=676.0 temperatura=31.0 vazao=0.06 acao=CancelaIrrigacao
+22:19:49 umidade=1023.0 chuva=679.0 temperatura=31.0 vazao=0.06 acao=CancelaIrrigacao
+22:19:59 umidade=1023.0 chuva=677.0 temperatura=31.0 vazao=0.06 acao=CancelaIrrigacao
+22:20:09 umidade=1023.0 chuva=676.0 temperatura=31.0 vazao=0.06 acao=CancelaIrrigacao
+22:20:19 umidade=1023.0 chuva=677.0 temperatura=31.0 vazao=0.06 acao=CancelaIrrigacao
+22:20:29 umidade=1023.0 chuva=677.0 temperatura=31.0 vazao=0.06 acao=CancelaIrrigacao
+22:20:39 umidade=1023.0 chuva=677.0 temperatura=31.0 vazao=0.06 acao=CancelaIrrigacao
+22:20:49 umidade=1023.0 chuva=677.0 temperatura=31.0 vazao=0.06 acao=CancelaIrrigacao
+22:20:59 umidade=1023.0 chuva=677.0 temperatura=31.0 vazao=0.06 acao=CancelaIrrigacao
+22:21:09 umidade=1023.0 chuva=677.0 temperatura=31.0 vazao=0.06 acao=CancelaIrrigacao
+22:21:20 umidade=1023.0 chuva=677.0 temperatura=31.0 vazao=0.06 acao=CancelaIrrigacao
+22:21:30 umidade=1023.0 chuva=677.0 temperatura=31.0 vazao=0.06 acao=CancelaIrrigacao
+22:21:40 umidade=1023.0 chuva=677.0 temperatura=32.0 vazao=0.06 acao=CancelaIrrigacao
+22:21:50 umidade=1023.0 chuva=677.0 temperatura=31.0 vazao=0.06 acao=CancelaIrrigacao
+22:22:00 umidade=1023.0 chuva=677.0 temperatura=31.0 vazao=0.06 acao=CancelaIrrigacao
+22:22:10 umidade=1023.0 chuva=677.0 temperatura=31.0 vazao=0.06 acao=CancelaIrrigacao
+22:22:20 umidade=1023.0 chuva=677.0 temperatura=31.0 vazao=0.06 acao=CancelaIrrigacao
+22:22:30 umidade=1023.0 chuva=677.0 temperatura=31.0 vazao=0.06 acao=CancelaIrrigacao
+22:22:40 umidade=1023.0 chuva=677.0 temperatura=32.0 vazao=0.06 acao=CancelaIrrigacao
+22:22:50 umidade=1023.0 chuva=677.0 temperatura=32.0 vazao=0.06 acao=CancelaIrrigacao
+22:23:00 umidade=1023.0 chuva=677.0 temperatura=32.0 vazao=0.06 acao=CancelaIrrigacao
+22:23:10 umidade=1023.0 chuva=677.0 temperatura=32.0 vazao=0.06 acao=CancelaIrrigacao
+22:23:21 umidade=1023.0 chuva=679.0 temperatura=32.0 vazao=0.06 acao=CancelaIrrigacao
+22:23:31 umidade=1023.0 chuva=677.0 temperatura=32.0 vazao=0.06 acao=CancelaIrrigacao
+22:23:41 umidade=1023.0 chuva=675.0 temperatura=32.0 vazao=0.06 acao=CancelaIrrigacao
+22:23:51 umidade=1023.0 chuva=677.0 temperatura=32.0 vazao=0.06 acao=CancelaIrrigacao
+22:24:01 umidade=1023.0 chuva=677.0 temperatura=32.0 vazao=0.06 acao=CancelaIrrigacao
+22:24:11 umidade=1023.0 chuva=677.0 temperatura=32.0 vazao=0.06 acao=CancelaIrrigacao
+22:24:21 umidade=1023.0 chuva=677.0 temperatura=32.0 vazao=0.06 acao=CancelaIrrigacao
+22:24:31 umidade=1023.0 chuva=677.0 temperatura=32.0 vazao=0.06 acao=CancelaIrrigacao
+22:24:41 umidade=1023.0 chuva=677.0 temperatura=32.0 vazao=0.06 acao=CancelaIrrigacao
+22:24:51 umidade=1023.0 chuva=677.0 temperatura=32.0 vazao=0.06 acao=CancelaIrrigacao
+22:25:01 umidade=1023.0 chuva=677.0 temperatura=32.0 vazao=0.06 acao=CancelaIrrigacao
+22:25:11 umidade=1023.0 chuva=677.0 temperatura=32.0 vazao=0.06 acao=CancelaIrrigacao
+22:25:22 umidade=1023.0 chuva=677.0 temperatura=32.0 vazao=0.06 acao=CancelaIrrigacao
+22:25:32 umidade=1023.0 chuva=677.0 temperatura=32.0 vazao=0.06 acao=CancelaIrrigacao
+22:25:42 umidade=1023.0 chuva=677.0 temperatura=32.0 vazao=0.06 acao=CancelaIrrigacao
+22:25:52 umidade=1023.0 chuva=677.0 temperatura=33.0 vazao=0.06 acao=CancelaIrrigacao
+22:26:02 umidade=1023.0 chuva=677.0 temperatura=33.0 vazao=0.06 acao=CancelaIrrigacao
+22:26:12 umidade=1023.0 chuva=677.0 temperatura=33.0 vazao=0.06 acao=CancelaIrrigacao
+22:26:22 umidade=1023.0 chuva=677.0 temperatura=33.0 vazao=0.06 acao=CancelaIrrigacao
+22:26:32 umidade=1023.0 chuva=677.0 temperatura=33.0 vazao=0.06 acao=CancelaIrrigacao
+22:26:42 umidade=1023.0 chuva=677.0 temperatura=33.0 vazao=0.06 acao=CancelaIrrigacao
+22:26:52 umidade=1023.0 chuva=677.0 temperatura=33.0 vazao=0.06 acao=CancelaIrrigacao
+22:27:02 umidade=1023.0 chuva=677.0 temperatura=33.0 vazao=0.06 acao=CancelaIrrigacao
+22:27:12 umidade=1023.0 chuva=677.0 temperatura=33.0 vazao=0.06 acao=CancelaIrrigacao
+22:27:22 umidade=1023.0 chuva=677.0 temperatura=33.0 vazao=0.06 acao=CancelaIrrigacao
+22:27:32 umidade=1023.0 chuva=677.0 temperatura=33.0 vazao=0.06 acao=CancelaIrrigacao
+22:27:42 umidade=1023.0 chuva=677.0 temperatura=33.0 vazao=0.06 acao=CancelaIrrigacao
+22:27:53 umidade=1023.0 chuva=677.0 temperatura=33.0 vazao=0.06 acao=CancelaIrrigacao
+22:28:03 umidade=1023.0 chuva=677.0 temperatura=33.0 vazao=0.06 acao=CancelaIrrigacao
+22:28:13 umidade=1023.0 chuva=677.0 temperatura=33.0 vazao=0.06 acao=CancelaIrrigacao
+22:28:23 umidade=1023.0 chuva=677.0 temperatura=33.0 vazao=0.06 acao=CancelaIrrigacao
+22:28:33 umidade=1023.0 chuva=677.0 temperatura=33.0 vazao=0.06 acao=CancelaIrrigacao
+22:28:43 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:28:53 umidade=1023.0 chuva=677.0 temperatura=33.0 vazao=0.06 acao=CancelaIrrigacao
+22:29:03 umidade=1023.0 chuva=677.0 temperatura=33.0 vazao=0.06 acao=CancelaIrrigacao
+22:29:13 umidade=1023.0 chuva=677.0 temperatura=33.0 vazao=0.06 acao=CancelaIrrigacao
+22:29:23 umidade=1023.0 chuva=677.0 temperatura=33.0 vazao=0.06 acao=CancelaIrrigacao
+22:29:33 umidade=1023.0 chuva=677.0 temperatura=33.0 vazao=0.06 acao=CancelaIrrigacao
+22:29:43 umidade=1023.0 chuva=677.0 temperatura=33.0 vazao=0.06 acao=CancelaIrrigacao
+22:29:54 umidade=1023.0 chuva=677.0 temperatura=33.0 vazao=0.06 acao=CancelaIrrigacao
+22:30:04 umidade=1023.0 chuva=677.0 temperatura=33.0 vazao=0.06 acao=CancelaIrrigacao
+22:30:14 umidade=1023.0 chuva=677.0 temperatura=33.0 vazao=0.06 acao=CancelaIrrigacao
+22:30:24 umidade=1023.0 chuva=677.0 temperatura=33.0 vazao=0.06 acao=CancelaIrrigacao
+22:30:34 umidade=1023.0 chuva=677.0 temperatura=33.0 vazao=0.06 acao=CancelaIrrigacao
+22:30:44 umidade=1023.0 chuva=677.0 temperatura=33.0 vazao=0.06 acao=CancelaIrrigacao
+22:30:54 umidade=1023.0 chuva=677.0 temperatura=33.0 vazao=0.06 acao=CancelaIrrigacao
+22:31:04 umidade=1023.0 chuva=677.0 temperatura=33.0 vazao=0.06 acao=CancelaIrrigacao
+22:31:14 umidade=1023.0 chuva=677.0 temperatura=33.0 vazao=0.06 acao=CancelaIrrigacao
+22:31:24 umidade=1023.0 chuva=677.0 temperatura=33.0 vazao=0.06 acao=CancelaIrrigacao
+22:31:34 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:31:44 umidade=1023.0 chuva=677.0 temperatura=32.0 vazao=0.06 acao=CancelaIrrigacao
+22:31:54 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:32:04 umidade=1023.0 chuva=672.0 temperatura=33.0 vazao=0.06 acao=CancelaIrrigacao
+22:32:14 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:32:25 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:32:35 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:32:45 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=IniciaIrrigacao
+22:32:55 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=IniciaIrrigacao
+22:33:05 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=IniciaIrrigacao
+22:33:15 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=IniciaIrrigacao
+22:33:25 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=IniciaIrrigacao
+22:33:35 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=IniciaIrrigacao
+22:33:45 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=IniciaIrrigacao
+22:33:55 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=IniciaIrrigacao
+22:34:05 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=CancelaIrrigacao
+22:34:15 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=IniciaIrrigacao
+22:34:25 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=IniciaIrrigacao
+22:34:35 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=IniciaIrrigacao
+22:34:45 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.06 acao=IniciaIrrigacao
+22:34:55 umidade=1023.0 chuva=677.0 temperatura=34.0 vazao=0.04 acao=CancelaIrrigacao
+22:35:06 umidade=1023.0 chuva=670.0 temperatura=34.0 vazao=0.04 acao=CancelaIrrigacao
+22:35:16 umidade=1023.0 chuva=650.0 temperatura=34.0 vazao=0.04 acao=CancelaIrrigacao
+22:37:08 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:40:33 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+22:40:43 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:40:53 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:41:03 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:41:13 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:41:23 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:41:33 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:41:43 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:41:53 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:42:03 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:42:13 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:42:23 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:42:33 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:42:43 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:42:53 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:43:03 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:43:13 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:43:23 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:43:34 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:43:44 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:43:54 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=CancelaIrrigacao
+22:44:04 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:44:14 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:44:24 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:44:34 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:44:44 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:44:54 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:45:04 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:45:14 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:45:24 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:45:35 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:45:45 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:45:55 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:46:05 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:46:15 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:46:25 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:46:35 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:46:45 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:46:55 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:47:05 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:47:15 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:47:25 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:47:35 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:47:45 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:47:56 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.0 acao=IniciaIrrigacao
+22:48:06 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.82 acao=IniciaIrrigacao
+22:48:16 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.82 acao=IniciaIrrigacao
+22:48:26 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=1.27 acao=IniciaIrrigacao
+22:48:36 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=1.27 acao=CancelaIrrigacao
+22:48:46 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=1.27 acao=CancelaIrrigacao
+22:48:56 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=1.27 acao=IniciaIrrigacao
+22:49:06 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=1.27 acao=IniciaIrrigacao
+22:49:16 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.64 acao=CancelaIrrigacao
+22:49:26 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.64 acao=CancelaIrrigacao
+22:49:36 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.64 acao=CancelaIrrigacao
+22:49:46 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=CancelaIrrigacao
+22:49:56 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=CancelaIrrigacao
+22:50:06 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:50:16 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=CancelaIrrigacao
+22:50:27 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=CancelaIrrigacao
+22:50:37 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:50:47 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:50:57 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:51:07 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:51:17 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:51:27 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:51:37 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:51:47 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:51:57 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:52:07 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:52:17 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:52:28 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:52:38 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:52:48 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:52:58 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:53:08 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:53:18 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:53:28 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:53:38 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:53:48 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:53:58 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:54:08 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:54:18 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:54:28 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:54:38 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:54:48 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:54:59 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:55:09 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:55:19 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:55:29 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:55:39 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:55:49 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:55:59 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:56:09 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:56:19 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:56:29 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:56:39 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:56:49 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:57:00 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:57:10 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:57:20 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:57:30 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:57:40 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:57:50 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:58:00 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:58:10 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:58:20 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:58:30 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:58:41 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:58:51 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:59:01 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:59:11 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:59:21 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:59:31 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:59:41 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+22:59:51 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:00:01 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:00:11 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:00:21 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:00:31 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:00:41 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:00:51 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:01:02 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:01:12 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:01:22 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:01:32 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:01:42 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:01:52 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:02:02 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:02:12 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:02:22 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:02:32 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:02:42 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:02:52 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:03:03 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:03:13 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:03:23 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:03:33 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:03:43 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:03:53 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:04:03 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:04:13 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:04:23 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:04:33 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:04:43 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:04:53 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:05:04 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:05:14 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:05:24 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:05:34 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:05:44 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:05:54 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:06:04 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:06:14 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:06:24 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:06:34 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:06:44 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:06:54 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:07:05 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:07:15 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:07:25 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:07:35 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:07:45 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:07:55 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:08:05 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:08:15 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:08:25 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:08:35 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:08:45 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:08:55 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:09:06 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:09:16 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:09:26 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:09:36 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:09:46 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:09:56 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:10:06 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:10:16 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:10:26 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:10:36 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:10:46 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:10:56 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:11:07 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:11:17 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:11:27 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:11:37 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:11:47 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:11:57 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:12:07 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:12:17 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:12:27 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:12:37 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:12:47 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:12:57 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:13:07 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:13:17 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:13:27 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:13:38 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:13:48 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:13:58 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:14:08 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:14:18 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:14:28 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:14:38 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:14:48 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:14:58 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:15:09 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:15:19 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:15:29 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:15:39 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:15:49 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:15:59 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:16:09 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:16:19 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:16:29 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:16:39 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:16:49 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:16:59 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:17:10 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:17:20 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:17:30 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:17:40 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:17:50 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:18:00 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:18:10 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:18:20 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:18:30 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:18:40 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:18:50 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:19:00 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:19:10 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:19:20 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:19:30 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:19:41 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:19:51 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:20:01 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:20:11 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:20:21 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:20:31 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:20:41 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:20:51 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:21:01 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:21:11 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:21:21 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:21:31 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:21:42 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:21:52 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:22:02 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:22:12 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:22:22 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:22:32 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:22:42 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:22:52 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:23:02 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:23:12 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:23:22 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:23:32 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:23:43 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:23:53 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:24:03 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:24:13 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:24:23 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:24:33 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:24:43 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:24:53 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:25:03 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:25:13 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:25:23 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:25:33 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:25:44 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:25:54 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:26:04 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:26:14 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:26:24 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:26:34 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:26:44 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:26:54 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:27:04 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:27:14 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:27:24 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:27:34 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:27:44 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:27:54 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:28:04 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:28:15 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:28:25 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:28:35 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:28:45 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:28:55 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:29:05 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:29:15 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:29:25 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:29:35 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:29:45 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:29:55 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:30:05 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:30:16 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:30:26 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:30:36 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:30:46 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:30:56 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:31:06 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:31:16 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:31:26 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:31:36 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:31:46 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:31:56 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:32:06 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:32:17 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:32:27 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:32:37 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:32:47 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:32:57 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:33:07 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:33:17 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:33:27 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:33:37 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:33:47 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:33:57 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:34:07 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:34:17 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:34:27 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:34:37 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:34:48 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:34:58 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:35:08 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:35:18 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:35:28 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:35:38 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:35:48 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:35:58 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:36:08 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:36:18 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:36:28 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:36:38 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:36:49 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:36:59 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:37:09 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:37:19 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:37:29 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:37:39 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:37:49 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:37:59 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:38:09 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:38:19 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:38:29 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:38:39 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:38:50 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:39:00 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:39:10 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:39:20 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:39:30 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:39:40 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:39:50 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+23:40:00 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:26:57 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:27:07 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:27:17 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:27:27 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:27:38 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:27:48 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:27:58 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:28:08 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:28:18 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:28:28 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:28:38 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:28:48 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:28:58 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:29:08 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:29:18 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:29:28 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:29:39 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:29:49 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:29:59 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:30:09 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:30:19 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:30:29 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:30:39 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:30:49 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:30:59 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:31:09 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:31:19 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:31:29 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:31:40 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:31:50 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:32:00 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:32:10 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:32:20 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:32:30 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:32:40 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:32:50 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:33:00 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:33:10 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:33:20 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:33:30 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:33:41 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:33:51 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:34:01 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:34:11 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:34:21 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:34:31 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:34:41 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:34:51 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:35:01 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:35:11 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:35:21 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:35:31 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:35:42 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:35:52 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:36:02 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:36:12 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:36:22 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:36:32 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:36:42 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:36:52 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:37:02 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:37:12 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:37:22 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:37:32 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:37:43 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:37:53 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:38:03 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:38:13 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:38:23 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:38:33 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:38:43 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:38:53 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:39:03 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:39:13 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:39:23 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:39:33 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:39:43 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:39:53 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:40:03 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:40:14 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:40:24 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:40:34 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:40:44 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:40:54 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:41:04 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:41:14 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:41:24 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:41:34 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:41:44 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:41:54 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:42:04 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:42:15 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:42:25 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:42:35 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:42:45 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:42:55 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:43:05 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:43:15 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:43:25 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:43:35 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:43:45 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:43:55 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:44:05 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:44:16 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:44:26 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:44:36 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:44:46 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:44:56 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:45:06 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:45:16 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:45:26 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:45:36 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:45:46 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:45:56 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:46:06 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:46:17 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:46:27 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:46:37 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:46:47 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:46:57 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:47:07 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:47:17 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:47:27 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:47:37 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:47:47 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:47:57 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:48:07 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:48:18 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:48:28 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:48:38 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:48:48 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:48:58 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:49:08 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:49:18 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:49:28 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:49:38 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:49:48 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:49:58 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:50:08 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:50:19 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:50:29 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:50:39 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:50:49 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:50:59 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:51:09 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:51:19 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:51:29 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:51:39 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:51:49 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:51:59 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:52:09 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:52:20 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:52:30 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:52:40 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:52:50 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:53:00 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:53:10 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:53:20 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:53:30 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:53:40 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:53:50 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:54:00 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:54:10 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:54:21 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:54:31 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:54:41 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:54:51 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:55:01 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:55:11 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:55:21 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:55:31 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:55:41 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:55:51 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:56:01 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:56:11 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:56:21 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:56:31 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:56:41 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:56:52 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:57:02 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:57:12 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:57:22 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:57:32 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:57:42 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:57:52 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:58:02 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:58:12 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:58:22 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:58:32 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:58:42 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:58:53 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:59:03 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:59:13 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:59:23 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:59:33 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:59:43 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+00:59:53 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:00:03 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:00:13 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:00:23 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:00:33 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:00:43 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:00:53 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:01:03 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:01:13 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:01:24 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:01:34 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:01:44 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:01:54 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:02:04 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:02:14 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:02:24 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:02:34 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:02:44 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:02:54 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:03:04 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:03:14 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:03:25 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:03:35 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:03:45 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:03:55 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:04:05 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:04:15 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:04:25 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:04:35 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:04:45 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:04:55 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:05:05 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:05:15 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:05:26 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:05:36 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:05:46 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:05:56 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:06:06 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:06:16 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:06:26 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:06:36 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:06:46 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:06:56 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:07:06 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:07:16 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:07:27 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:07:37 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:07:47 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:07:57 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:08:07 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:08:17 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:08:27 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:08:37 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:08:47 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:08:57 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:09:07 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:09:17 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:09:28 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:09:38 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:09:48 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:09:58 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:10:08 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:10:18 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:10:28 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:10:38 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:10:48 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:10:58 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:11:08 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:11:18 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:11:28 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:11:38 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:11:48 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:11:59 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:12:09 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:12:19 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:12:29 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:12:39 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:12:49 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:12:59 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:13:09 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:13:19 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:13:29 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:13:39 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:13:49 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:14:00 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:14:10 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:14:20 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:14:30 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:14:40 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:14:50 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:15:00 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:15:10 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:15:20 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:15:30 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:15:40 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:15:50 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:16:01 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:16:11 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:16:21 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:16:31 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:16:41 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:16:51 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:17:01 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:17:11 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:17:21 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:17:31 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:17:41 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:17:51 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:18:02 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:18:12 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:18:22 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:18:32 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:18:42 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:18:52 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:19:02 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:19:12 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:19:22 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:19:32 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:19:42 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:19:52 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:20:03 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:20:13 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:20:23 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:20:33 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:20:43 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:20:53 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:21:03 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:21:13 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:21:23 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:21:33 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:21:43 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:21:53 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:22:04 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:22:14 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:22:24 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:22:34 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:22:44 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:22:54 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:23:04 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:23:14 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:23:24 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:23:34 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:23:44 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:23:54 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:24:05 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:24:15 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:24:25 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:24:35 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:24:45 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:24:55 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:25:05 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:25:15 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:25:25 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:25:35 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:25:45 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:25:55 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:26:06 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:26:16 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:26:26 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:26:36 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:26:46 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:26:56 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:27:06 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:27:16 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:27:26 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:27:36 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
+01:27:46 umidade=0.0 chuva=0.0 temperatura=0.0 vazao=0.47 acao=IniciaIrrigacao
